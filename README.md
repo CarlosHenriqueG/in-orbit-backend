@@ -35,7 +35,7 @@ Para configurar o backend do in.orbit, siga os passos abaixo:
 - Também pode rodar pelo [docker](https://www.docker.com/) (é só usar o docker compose dentro do projeto)
 
 ### Para rodar este projeto, além de clonar este projeto, é preciso estar com o front-end funcionando.
-#### para acessar o repositório do front-end, clique aqui: [in.orbit backend](https://github.com/CarlosHenriqueG/in-orbit-frontend.git?tab=readme-ov-file#readme) 
+#### para acessar o repositório do front-end, clique aqui: [in.orbit frontend](https://github.com/CarlosHenriqueG/in-orbit-frontend.git?tab=readme-ov-file#readme) 
 
 ### Clone o projeto
 ```bash
